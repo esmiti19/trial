@@ -4,6 +4,7 @@ public class cheak {
   System.out.print("i am legend");
   System.out.print("i am legend");
   System.out.print("i am legend");
-  
+  System.out.print("after commit");
+  System.out.print("after commit");
 }
 }
